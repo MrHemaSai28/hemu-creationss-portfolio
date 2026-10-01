@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mrhemasai28.github.io/hemu-creationss-portfolio/sitemap.xml
